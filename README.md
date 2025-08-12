@@ -12,7 +12,7 @@ The primary artifact for this project is the official poster presented to an aud
 *   Results from Watertight and Floatation Tests
 *   Overall Design Concept and Features
 
-[Insert an image of your poster here by dragging and dropping the file into this README editor, which will generate the markdown link]
+<img width="2500" height="1875" alt="Aquatus_Poster" src="https://github.com/user-attachments/assets/57d9ad69-7df0-4a87-b55f-e4be847bf0b8" />
 
 ## My Role: Software & Control Systems
 
