@@ -1,4 +1,4 @@
-# Autonomous Water Filtration System (Project Aquatus)
+# Heavy Metal Water Filtration Device System (Project Aquatus)
 
 A portfolio entry documenting "Aquatus," an embedded systems project that combined hardware design and C++ software to create a functional, autonomous water filtration prototype. The system was designed as a low-cost, wildlife-safe solution to heavy metal contamination in urban ponds.
 
