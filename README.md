@@ -1,6 +1,6 @@
 # Heavy Metal Water Filtration Device System (Project Aquatus)
 
-A portfolio entry documenting "Aquatus," an embedded systems project that combined hardware design and C++ software to create a functional, autonomous water filtration prototype. The system was designed as a low-cost, wildlife-safe solution to heavy metal contamination in urban ponds.
+A portfolio entry documenting "Aquatus," an embedded systems project that combined hardware design and C++ software to create a functional, autonomous heavy metal water filtration prototype. The system was designed as a low-cost, wildlife-safe solution to heavy metal contamination in urban ponds.
 
 **This repository serves as a showcase of the project's final design, validated performance data, and my specific contributions to the control software.**
 
